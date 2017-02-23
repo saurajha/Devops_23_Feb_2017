@@ -49,7 +49,8 @@ public class HashCodeExample {
 		hs.add(new Employee("BA"));
 		
 		System.out.println(hs);
-		
+		System.out.println(ps);		
 	}
 
 }
+
